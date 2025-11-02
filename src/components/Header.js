@@ -10,7 +10,7 @@ const Header = () => {
       <nav className="nav container">
         <div className="logo">
           <FaCode className="logo-icon" />
-          <span>Mehdi Ben Ameur</span>
+          <span>Mohamed Mehdi Ben Ameur</span>
         </div>
         <div className="nav-right">
           <ul className="nav-links">
