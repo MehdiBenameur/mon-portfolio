@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mehdi-portfolio/static/css/main.c13d9c4d.css",
-    "main.js": "/mehdi-portfolio/static/js/main.7414ae15.js",
-    "index.html": "/mehdi-portfolio/index.html",
-    "main.c13d9c4d.css.map": "/mehdi-portfolio/static/css/main.c13d9c4d.css.map",
-    "main.7414ae15.js.map": "/mehdi-portfolio/static/js/main.7414ae15.js.map"
+    "main.css": "/mon-portfolio/static/css/main.c13d9c4d.css",
+    "main.js": "/mon-portfolio/static/js/main.7414ae15.js",
+    "index.html": "/mon-portfolio/index.html",
+    "main.c13d9c4d.css.map": "/mon-portfolio/static/css/main.c13d9c4d.css.map",
+    "main.7414ae15.js.map": "/mon-portfolio/static/js/main.7414ae15.js.map"
   },
   "entrypoints": [
     "static/css/main.c13d9c4d.css",
