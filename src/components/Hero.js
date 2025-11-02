@@ -10,9 +10,12 @@ const Hero = () => {
           <div className="profile-image-container">
             <div className="profile-image">
               <img 
-                src="/profile.png" 
+                src={process.env.PUBLIC_URL + "/profile.jpg"}
                 alt="Mohamed Mehdi Ben Ameur"
                 className="profile-img"
+                onError={(e) => {
+                  e.target.style.display = 'none';
+                }}
               />
               <div className="image-border"></div>
               <div className="image-glow"></div>
